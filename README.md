@@ -14,9 +14,9 @@ I used the python environment within Pycharm and Luigi Scheduler to perform my a
 
 # Preview
 
-![Preview of Luigi Scheduler created from this project.](https://github.com/micgonzalez/MySQL-Database-Visualizations/blob/main/mysql_employees_db/mysql_employees_bar_chart.png)
+![Preview of Luigi Scheduler created from this project.](https://github.com/micgonzalez/Luigi-Data-Pipeline-with-Python/blob/main/luigi_tasks/luigi_tasks_word_counts_list.png)
 
-![Preview of Pycharm Terminal created from this project.](https://github.com/micgonzalez/MySQL-Database-Visualizations/blob/main/mysql_employees_db/mysql_employees_bar_chart.png)
+![Preview of Pycharm Terminal created from this project.](https://github.com/micgonzalez/Luigi-Data-Pipeline-with-Python/blob/main/luigi_tasks/pycharm_terminal_results.png)
 
 
 # Findings
