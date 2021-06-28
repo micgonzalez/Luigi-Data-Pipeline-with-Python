@@ -16,8 +16,11 @@ I used the python environment within Pycharm and Luigi Scheduler to perform my a
 
 ![Preview of Luigi Scheduler created from this project.](https://github.com/micgonzalez/Luigi-Data-Pipeline-with-Python/blob/main/luigi_tasks/luigi_tasks_word_counts_list.png)
 
+This Screenshot was created from this project to show the public about the visual view of Luigi Scheduler.
+
 ![Preview of Pycharm Terminal created from this project.](https://github.com/micgonzalez/Luigi-Data-Pipeline-with-Python/blob/main/luigi_tasks/pycharm_terminal_results.png)
 
+This Screenshot was created from this project to show the public what was done in Pycharm's terminal window.
 
 # Findings
 I was tasked to automate the task of scraping data from a static webpage and create a summary of the resulting word count. I had to utilize the Luigi Scheduler and Pycharm's terminal function to perform these tasks. Using Luigi Scheduler can reduce the allotted time in performing these tasks. Luigi is a powerful application, but it does not have a visual display of the tasks being performed. Luigi Scheduler helps in giving a useful display of visuals on the tasks.
